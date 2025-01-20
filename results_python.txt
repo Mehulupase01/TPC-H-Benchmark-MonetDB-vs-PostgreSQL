@@ -1,0 +1,32 @@
+query 6 for SF-3 monetdb
+Revenue: 739852560.6306
+Query execution time: 0.44884797802660614
+query 1 for SF-3 monetDB
+('A', 'F', Decimal('226486512.00'), Decimal('339555396266.96'), Decimal('322577396904.0230'), Decimal('335481787512.878698'), Decimal('25.50'), Decimal('38237.49'), Decimal('0.05'), 8880170)
+('N', 'F', Decimal('5907380.00'), Decimal('8849515690.40'), Decimal('8407379741.6200'), Decimal('8744192082.144830'), Decimal('25.54'), Decimal('38258.91'), Decimal('0.05'), 231306)
+('N', 'O', Decimal('445961086.00'), Decimal('668775116808.92'), Decimal('635340748740.7804'), Decimal('660767643216.124690'), Decimal('25.50'), Decimal('38240.52'), Decimal('0.05'), 17488652)
+('R', 'F', Decimal('226714940.00'), Decimal('340004109736.14'), Decimal('323010542241.7680'), Decimal('335928179154.104628'), Decimal('25.51'), Decimal('38258.82'), Decimal('0.05'), 8886946)
+Query execution time: 5.1953367160167545
+query 6 for SF-3
+Revenue: 739852560.6306
+Query execution time: 0.20743404398672283
+query 6 for SF-1 postgres
+Revenue: 123141078.2283
+Query execution time: 0.8005016100360081
+query 6 for SF-3 postgres
+Revenue: 369926280.3153
+Query execution time: 22.795610893983394
+query 1 for SF-3 postgres
+('A', 'F', Decimal('113243256.00'), Decimal('169777698133.48'), Decimal('161288698452.0115'), Decimal('167740893756.439349'), Decimal('25.5047495712356858'), Decimal('38237.488276346061'), Decimal('0.05000160807732284404'), 4440085)
+('N', 'F', Decimal('2953690.00'), Decimal('4424757845.20'), Decimal('4203689870.8100'), Decimal('4372096041.072415'), Decimal('25.5392423888701547'), Decimal('38258.911097853060'), Decimal('0.04997985352736202260'), 115653)
+('N', 'O', Decimal('222980543.00'), Decimal('334387558404.46'), Decimal('317670374370.3902'), Decimal('330383821608.062345'), Decimal('25.5000263027705051'), Decimal('38240.518297746447'), Decimal('0.04999051156143995546'), 8744326)
+('R', 'F', Decimal('113357470.00'), Decimal('170002054868.07'), Decimal('161505271120.8840'), Decimal('167964089577.052314'), Decimal('25.5110068183153133'), Decimal('38258.824767939402'), Decimal('0.04998877679688837988'), 4443473)
+Query execution time: 44.38514526700601query 1 for SF-1
+('A', 'F', Decimal('37734107.00'), Decimal('56586554400.73'), Decimal('53758257134.8700'), Decimal('55909065222.827692'), Decimal('25.52'), Decimal('38273.13'), Decimal('0.05'), 1478493)
+('N', 'F', Decimal('991417.00'), Decimal('1487504710.38'), Decimal('1413082168.0541'), Decimal('1469649223.194375'), Decimal('25.52'), Decimal('38284.47'), Decimal('0.05'), 38854)
+('N', 'O', Decimal('74476040.00'), Decimal('111701729697.74'), Decimal('106118230307.6056'), Decimal('110367043872.497010'), Decimal('25.50'), Decimal('38249.12'), Decimal('0.05'), 2920374)
+('R', 'F', Decimal('37719753.00'), Decimal('56568041380.90'), Decimal('53741292684.6040'), Decimal('55889619119.831932'), Decimal('25.51'), Decimal('38250.85'), Decimal('0.05'), 1478870)
+Query execution time: 1.602067303028889
+query 6 for SF-1
+Revenue: 123141078.2283
+Query execution time: 0.02403164398856461
